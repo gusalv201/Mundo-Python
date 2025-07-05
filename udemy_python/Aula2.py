@@ -6,6 +6,8 @@ print(12, 34) # Recebe argumento, caso mais de 1 usar vírgula
 # Para duplicar uma linha usar CTRL+C E CTRL +V
 print(12, 34) # Argumentos não nomeados
 print(12,34,sep="João") #sep define o separador
+
+# Por padrão o print possui o end=\n e sempre quebra linha
 #Cada sistema tem um tipo de quebra de linha , no Windows é o CRLF 
 #CRLF significa "Carriage Return/Line Feed", e refere-se aos caracteres de controle 
 # usados para indicar o final de uma linha em arquivos de texto, 
