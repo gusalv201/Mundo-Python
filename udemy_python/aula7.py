@@ -5,7 +5,7 @@
 # O sinal de = é o operador de atribuição. Ele é usado para
 # atribuir um valor a um nome (variável).
 # Uso: nome_variavel = expressão
-# Variável deve representar o que ela representa
+# O nome da variável deve ter sentido ao que ela representa
 nome_completo = 'Gustavo Alves'
 soma_dois_mais_dois = 2 + 5
 print(nome_completo)
