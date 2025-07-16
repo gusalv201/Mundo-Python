@@ -13,7 +13,7 @@ print(12,34,sep="João") #sep define o separador
 # usados para indicar o final de uma linha em arquivos de texto, 
 # especialmente em sistemas operacionais como o Windows
 print(12, 10, end='\n') # Quebra a linha ou pode colocar quebra e outro caracter
-print(12,10, end="\n##")
+print(12,10, end="\n##") # Quebra a linha e coloca dois ## na linha de baixo
 
 
 # O python diferencia letras maiúsculas e minúsculas(Case Sensitive)

@@ -1,3 +1,4 @@
+# Aula 23
 # Variáveis são usadas para salvar algo na memória do computador
 # PEP8: inicie variáveis com letras minúsculas, pode usar
 # números e underline _.
