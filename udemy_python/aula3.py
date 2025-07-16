@@ -21,6 +21,7 @@ print("Gustavo \"Alves") # O interpretador ignora a aspa e não dá erro
 
 # r (usa o r para fazer aparecer o caracter de escape)
 print(r"Gustavo \"Alves")
-
+# Retorno de carro volta o cursor ao início da linha e vai sobrescrevendo
+print("ABC\r123")
 # No fim é melhor usar aspas simples e as aspas duplas dentro do texto ou o contrário
 print('Gustavo "Alves"')
