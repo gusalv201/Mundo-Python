@@ -1,4 +1,4 @@
-# Aula 29 Exercício IMC
+# Aula 29/30 Exercício IMC
 imc = ... # Esses 3 pontos são chamados de elipses e podem ser usados de placeholders
 # Ao executar o código não gera erro
 # Indica que o desenvolvedor ainda está fazendo o algoritmo
