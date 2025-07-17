@@ -21,6 +21,7 @@ formato = 'a={} b={} c={:.2f}'.format(a,b,c) #Eu coloquei de argumentos a,b e c.
 # ex. .format(a,b, nome=c) Código certo
 # Após nomear pode chamar nas chaves os nomes atribuídos
 # string = '{peso}, {altura}, {imc}'.format(peso=a, altura=b, imc=c)
+# Os nomes funcionam somente naquele contexto
 
 print (formato)
 

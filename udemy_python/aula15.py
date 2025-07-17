@@ -1,10 +1,10 @@
 # Aula 33 Função Input para coletar dados do usuário
 
-#input('Qual o seu nome? ') # No caso não da erro, mas também não finaliza o programa, tem que apertar enter
+# input('Qual o seu nome? ') # No caso não da erro, mas também não finaliza o programa, tem que apertar enter
 # O input SEMPRE armazena com STRING, tem que fazer a coerção se quiser algum outro tipo
 # Se passar o nome na variável ele já mostra a STR
-#nome = input('Qual o seu nome? ')
-#print()
+# nome = input('Qual o seu nome? ')
+# print()
 
 
 #numero_1 = input('Digite um número: ')

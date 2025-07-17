@@ -6,8 +6,10 @@ condicao2 = False
 condicao3 = False
 condicao4 = False
 
+
+# Após a condição deve usar : “o que  vem a seguir, indentado, é o bloco que será executado se a condição for verdadeira”.
 # A partir do momento que o bloco executa algo verdadeiro ele sai do bloco, não continua para as outras
-if Condicao_1: # O Pytho entende, pois se a variável está vazia é False, senão é True OBS:' 'é True
+if Condicao_1: # O Python entende, pois se a variável está vazia é False, senão é True OBS:' 'é True
     print('Código da condição 1') # Deve identar com 4 espaços ou um tab
 elif condicao2: 
     print('Código da condicao 2')
